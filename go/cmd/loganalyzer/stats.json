@@ -1,0 +1,45 @@
+{
+    "total_requests": 10,
+    "status_codes": {
+        "200": 6,
+        "201": 1,
+        "400": 1,
+        "401": 1,
+        "500": 1
+    },
+    "average_time": 0.24910000000000002,
+    "top_endpoints": [
+        {
+            "path": "/api/v1/users",
+            "count": 3,
+            "avg_time": 0.11066666666666665,
+            "method": "GET"
+        },
+        {
+            "path": "/api/v1/auth/login",
+            "count": 2,
+            "avg_time": 0.0615,
+            "method": "POST"
+        },
+        {
+            "path": "/api/v1/stats",
+            "count": 2,
+            "avg_time": 0.2895,
+            "method": "GET"
+        },
+        {
+            "path": "/api/v1/files/upload",
+            "count": 2,
+            "avg_time": 0.6505,
+            "method": "POST"
+        },
+        {
+            "path": "/api/v1/files/list",
+            "count": 1,
+            "avg_time": 0.156,
+            "method": "GET"
+        }
+    ],
+    "start_time": "2024-03-22 10:00:01",
+    "end_time": "2024-03-22 10:00:10"
+}

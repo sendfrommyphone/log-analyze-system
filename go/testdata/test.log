@@ -1,0 +1,10 @@
+[INFO] 2024-03-25 10:00:00 Application started
+[DEBUG] 2024-03-25 10:00:01 Initializing database connection
+[INFO] 2024-03-25 10:00:02 Connected to database successfully
+[WARN] 2024-03-25 10:00:03 High memory usage detected
+[ERROR] 2024-03-25 10:00:04 Failed to process request: timeout
+[INFO] 2024-03-25 10:00:05 Processing file upload
+[DEBUG] 2024-03-25 10:00:06 File size: 1024 bytes
+[ERROR] 2024-03-25 10:00:07 Database query failed
+[INFO] 2024-03-25 10:00:08 Cleanup process started
+[INFO] 2024-03-25 10:00:09 System status: healthy
